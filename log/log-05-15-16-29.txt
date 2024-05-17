@@ -1,0 +1,4 @@
+2024-05-15 16-29-29: batch_size: 1024 device: cuda embedSize: 64 gcn_layers: 2 lr: 0.001 n_epochs: 50 pretrained: False ratio: 0.8
+2024-05-15 16-29-41: batch_size: 1024 device: cuda embedSize: 64 gcn_layers: 2 lr: 0.001 n_epochs: 50 pretrained: False ratio: 0.8
+2024-05-15 16-30-07: Epoch0:trainLoss6.6843,testLoss8.7266
+2024-05-15 16-30-33: Epoch1:trainLoss3.5153,testLoss3.3509

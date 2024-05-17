@@ -1,0 +1,1 @@
+2024-05-15 16-28-19: batch_size: 1024 device: cuda embedSize: 64 gcn_layers: 2 lr: 0.001 n_epochs: 50 pretrained: False ratio: 0.8
